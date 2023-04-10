@@ -1,7 +1,6 @@
 from machine import Pin
 import time
 from font import font #font data can be accessed directly as font['A'] etc
-Test
 
 row1 = Pin(0, Pin.OUT)
 row2 = Pin(1, Pin.OUT)
